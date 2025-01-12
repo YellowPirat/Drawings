@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Seite-1" id="a9OoyWns-IZeFspXCzl-">
+    <mxGraphModel dx="1195" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DnNxYRB68PnlACCA3rMo-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SocketCAN Driver&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MCAP Logger&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Webserver&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ARM Cortex A9&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CAN Core&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CAN Core&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-9" value="..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AXI&lt;br&gt;MSSM&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="339.83" as="sourcePoint" />
+            <mxPoint x="620" y="339.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="399.83" as="sourcePoint" />
+            <mxPoint x="620" y="399.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="359.66999999999996" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.9" y="380" as="sourcePoint" />
+            <mxPoint x="399.9" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.9" y="380" as="sourcePoint" />
+            <mxPoint x="279.9" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FPGA&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnNxYRB68PnlACCA3rMo-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cyclone V SoC FPGA&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
